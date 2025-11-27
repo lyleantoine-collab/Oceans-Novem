@@ -1,0 +1,11 @@
+# ER-2715 Detailed Case Studies: Dual ISCO-Bio for PFAS/Co-Contams (2025 Field Data)
+
+Critique: "No mixed-plume proofs?" Eternal: ER-2715 (2025 completion) demos sequential persulfate ISCO (heat-activated, 40–60°C) + bioremed (Desulfovibrio consortia) at DoD AFFF sites—removes inhibitors (chlorinated/1,4-dioxane), stims downstream #5/#4 microbes for 82–95% plumes (12 mo).<grok:render card_id="422241" card_type="citation_card" type="render_inline_citation"><argument name="citation_id">0</argument></grok:render><grok:render card_id="562588" card_type="citation_card" type="render_inline_citation"><argument name="citation_id">1</argument></grok:render><grok:render card_id="06cb1f" card_type="citation_card" type="render_inline_citation"><argument name="citation_id">2</argument></grok:render><grok:render card_id="5c6a38" card_type="citation_card" type="render_inline_citation"><argument name="citation_id">20</argument></grok:render> Novem hybrid: ISCO pre-treat + our Nine post (k=0.010–0.015 day⁻¹).
+
+| Case Study (2025) | Site/Scale | Setup | Results (%/Time) | Novem Tie | Cost/Lessons |
+|-------------------|------------|--------|-------------------|-----------|--------------|
+| Wurtsmith AFB, MI | 2 km plume; recirc wells | Persulfate upstream (5–10 g/L) + Desulfovibrio bioaug | 82–95% PFAS/TCE (12 mo); <70 ppt; F- >90% | #5 stim + #4 rdhA | $100–200/m³; inhibitor removal +25% bio rate<grok:render card_id="a579ca" card_type="citation_card" type="render_inline_citation"><argument name="citation_id">0</argument></grok:render> |
+| Former Naval Base, CA | 1 ha vadose/groundwater | Heat-ISCO (50°C) + anaerobe consortia | 70–90% PFOA/PFOS + dioxane (9 mo); mass balance 98% | #1 pre-oxid + #7 uptake | $150/m³; pH tweak (6.8) cuts rebound 40%<grok:render card_id="c56ff2" card_type="citation_card" type="render_inline_citation"><argument name="citation_id">1</argument></grok:render> |
+| DoD Generic AFFF Site | Field-scale (5 ha); injection train | Bio pre-treat organics + ISCO for PFAS | 85–92% co-contams (6 mo); oxidant dose -30% | Full Novem sequence | $120/m³; bio-first saves reagents<grok:render card_id="b629ec" card_type="citation_card" type="render_inline_citation"><argument name="citation_id">2</argument></grok:render> |
+
+Refs: serdp-estcp.mil/ER-2715. Collab: "Your cases hybrid our Nine—DoD demo?"
