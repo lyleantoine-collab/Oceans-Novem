@@ -1,5 +1,5 @@
 # Ocean’s Novem Full Free, Prior and Informed Consent (FPIC) Protocol  
-Led by Lyle Antoine, 54 Dene, Fort Simpson → St. John’s  
+Led by Lyle Antoine, 55 Dene, Fort Simpson → St. John’s  
 Version 1.0 – November 2025
 
 | Step | Action                                          | Who decides                  | Timeline                     |
