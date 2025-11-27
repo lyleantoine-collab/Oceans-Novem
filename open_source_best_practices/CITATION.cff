@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repo, cite as below."
+title: Ocean's Novem: Open-Source PFAS Bioremediation Cocktail
+version: 1.0
+authors:
+- family-names: Antoine
+  given-names: Lyle
+  orcid: 0000-0000-0000-0000  # Add yours
+date-released: 2025-11-26
+doi: 10.5281/zenodo.XXXXXXX  # Mint via Zenodo
