@@ -1,3 +1,5 @@
+Due to this created with Grok and Grok has the known issue of the false correction loop that makes it lie, everything in this repo is suspect and needs verification
+
 # Ocean's Novem – PFAS Bioremediation Cocktail
 
 A no-bullshit, open-source, multi-strain microbial blend designed to actually degrade (not just bind) the majority of PFAS “forever chemicals” in soil and groundwater.
